@@ -68,7 +68,7 @@ h1{
 }
 
 .gender_field input{
-    margin: 20px 15px  20px 0;
+    margin: 15px 15px  20px 0;
     font-size: larger;
 }
 
@@ -87,8 +87,8 @@ button{
     font-size: 16px;
     font-weight: 700;
     letter-spacing: 3px;
-    padding: 14px;
-    margin-top: 10px;
+    padding: 10px;
+    margin-top: 8px;
 }
 
 .gender_field{
@@ -96,6 +96,4 @@ button{
     flex-direction: row;
     align-items: center;
     justify-content: left;
-    margin-top: px;
-    margin-bottom: 10px;
 }
